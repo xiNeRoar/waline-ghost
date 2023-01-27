@@ -791,7 +791,7 @@
     margin:1em 0
 }
 .wl-power{
-    display:none
+    display:none;
     padding:.5em 0;
     color:var(--waline-light-grey);
     font-size:var(--waline-info-font-size);
