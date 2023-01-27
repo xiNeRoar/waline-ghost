@@ -1,9 +1,9 @@
 :root {
-  --waline-font-size: 1rem;
+  --waline-font-size: 1.4rem;
   --waline-white: #fff;
   --waline-light-grey: #999;
   --waline-dark-grey: #666;
-  --waline-theme-color: #27ae60;
+  --waline-theme-color: #caa674;
   --waline-active-color: #2ecc71;
   --waline-color: #444;
   --waline-bgcolor: #fff;
