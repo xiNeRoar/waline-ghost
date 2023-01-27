@@ -1,10 +1,10 @@
 :root{
-    --waline-font-size: 1.4rem;
+    --waline-font-size: 1.rem;
     --waline-white: #fff;
     --waline-light-grey: #999;
     --waline-dark-grey: #666;
     --waline-theme-color: #caa674;
-    --waline-active-color: #2ecc71;
+    --waline-active-color: #967c56;
     --waline-color: #444;
     --waline-bgcolor: #fff;
     --waline-bgcolor-light: #f8f8f8;
@@ -791,6 +791,7 @@
     margin:1em 0
 }
 .wl-power{
+    display:none
     padding:.5em 0;
     color:var(--waline-light-grey);
     font-size:var(--waline-info-font-size);
